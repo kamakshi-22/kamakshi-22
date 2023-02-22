@@ -1,6 +1,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <!-- c programming -->
-<img src="image/README/tech-icons/c.png" alt="c-programming" width="40" height="40"/><img src="image/README/tech-icons/c-plus-plus-logo.png" alt="c++" width="40" height="40"/>
+<p><img src="image/README/tech-icons/c.png" alt="c-programming" width="40" height="40"/><img src="image/README/tech-icons/c-plus-plus-logo.png" alt="c++" width="40" height="40"/></p>
 <!-- html -->
 <img src="image/README/tech-icons/html-5.png" alt="html" width="40" height="40"/>
 <!-- css -->
