@@ -1,6 +1,6 @@
 ![1677051881004](image/README/1677051881004.png)
 
-<img src="image/README/1677051881004.png" width="100%"/>
+<img src="image/README/1677051881004.png" width="100%" height="30%"/>
 
 # 📊 GitHub Stats:
 
