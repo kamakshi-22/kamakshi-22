@@ -1,8 +1,10 @@
-![1677052947466](image/README/1677052947466.png)
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamakshi-22&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamakshi-22&show_icons=true&locale=en&layout=compact" alt="kamakshi-22" />
+</p>
 
 # 💻 Tech Stack:
 
