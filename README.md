@@ -1,6 +1,6 @@
-<img src="https://i.pinimg.com/564x/59/48/14/594814a77d80d63a57a42f2141341b73.jpg" alt="header" width="100%" height="100px">
+<img src="https://i.pinimg.com/564x/59/48/14/594814a77d80d63a57a42f2141341b73.jpg" alt="header" width="100%" height="160px">
 
-##Languages and Tools
+## Languages and Tools
 
 <p>
 <!-- c -->
